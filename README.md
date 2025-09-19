@@ -5,7 +5,7 @@
  These Machine Learned Regexes was learned/trained on the smaller MNIST "Test" set (10000)
  and it generalizes, with **100% accuracy**, to the larger MNIST "Training" set (60000).
                                                                            
-  You can see the MLREGEX Machine Learned Regexes in the file: MNISTRegexes.cs
+  You can see the MLREGEX Machine Learned Regexes in the file: MLREGEX-MNIST-Regexes.cs
   See the method "button3_MatchWithRegex_Click()" below, for the code using the Regexes.
                                                                            
  For Demonstration Purposes we added matching with Regex Functionality, here to the MnistViewer program.
