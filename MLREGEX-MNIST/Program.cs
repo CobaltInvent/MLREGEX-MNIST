@@ -9,7 +9,7 @@ using System.Windows.Forms;
 //**********************************************************************************************
 //*** MLREGEX_MNIST
 //**********************************************************************************************
-//*** USES REGEXES MACHINE LEARNED with MLREGEX, see https://www.mlregex.com 
+//*** USES REGEXES MACHINE LEARNED with MLREGEX, see https://www.mlregex.com/About 
 //***
 //*** Note: For an additional challenge, we swapped the MNIST Test and Training Set.
 //*** These Machine Learned Regexes was learned/trained on the smaller MNIST "Test" set (10000)
