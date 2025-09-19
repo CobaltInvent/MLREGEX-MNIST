@@ -1,5 +1,5 @@
 # MLREGEX-MNIST
-## Demo showing the use of MLREGEX Machine-Learned Regular Expressions to match the MNIST image dataset, see [MLREGEX](https://www.mlregex.com/About) 
+## Demo showing the use of [MLREGEX](https://www.mlregex.com/About) Machine-Learned Regular Expressions to match the MNIST image dataset.  
 
  Note: For an additional challenge, we swapped the MNIST Test and Training Set.
  These Machine Learned Regexes was learned/trained on the smaller MNIST "Test" set (10000)
