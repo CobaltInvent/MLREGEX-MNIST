@@ -13,5 +13,5 @@
     See [MnistViewer](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/june/test-run-working-with-the-mnist-image-recognition-data-set)
 
  MnistViewer is a WinForm program for MSDN Magazine article "Image Recognition with the MNIST Data Set"
- You must get, download, and unzip the two MNIST data files below.
+ You must get, download, and unzip the two MNIST data files.
 
